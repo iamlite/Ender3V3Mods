@@ -4,7 +4,7 @@
 
 This is a set of mounts to add support rods to the gantry of the Ender 3 V3 (Core XZ) 3D printer. The support rods are designed to reduce the amount of wobble in the gantry, which can improve print quality. It uses 3/8" threaded rods. This should work with M10 threaded rods too. If not, someone with 10mm rods please contact me and i will happily modify the model to fit.
 
-![Front](/Images/1.png)
+<img src="/Images/1.png" alt="Front" style="width:400px;">
 ![Back](/Images/2.png)
 
 ### Printing Details
