@@ -13,5 +13,16 @@ This repository serves as a collection of mods i've made for the Ender 3V3 Core 
 ---
 
 [Camera Mounts](https://github.com/iamlite/Ender3V3Mods/tree/main/Camera%20Mounts)
+(coming soon!)
+
+---
+
+[LiteBurner Shroud](https://github.com/iamlite/Ender3V3Mods/tree/main/LiteBurner%20Shroud)
+(coming soon!)
+
+---
+
+[LiteBurner - No LED Ring](https://github.com/iamlite/Ender3V3Mods/tree/main/LiteBurner%20-%20No%20LED%20Ring)
+(coming soon!)
 
 ---
