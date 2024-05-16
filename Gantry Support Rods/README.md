@@ -9,7 +9,6 @@ This is a set of mounts to add support rods to the gantry of the Ender 3 V3 (Cor
     <img src="/Gantry Support Rods/Images/2.png" alt="Back" style="width:400px; display:inline-block;">
 </p>
 
-
 ### Printing Details
 
 - No supports on top mounts. Lots of support on base mounts.
